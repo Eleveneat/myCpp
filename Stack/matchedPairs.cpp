@@ -1,6 +1,6 @@
 /*
 *    Filename: matchedPairs.cpp
-*    Description: Match simple pair expression, like (a*(b+c)+d); 
+*    Description: Match simple pair expression, like (a*(b+c)+d).
 *    Last modified: 2014-10-12 18:32
 *
 *    Created by Eleven on 2014-10-12

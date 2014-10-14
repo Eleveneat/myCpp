@@ -1,3 +1,12 @@
+/*
+*    Filename: Stack.h
+*    Description: None.
+*    Last modified: 2014-10-14 10:51
+*
+*    Created by Eleven on 2014-10-14
+*    Email: eleveneat@gmail.com
+*    Copyright (C) 2014 Eleven. All rights reserved.
+*/
 #ifndef _STACK_H_
 #define _STACK_H_
 template<class T>

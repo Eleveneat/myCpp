@@ -1,3 +1,12 @@
+/*
+*    Filename: Stack.cpp
+*    Description: 公式化描述的stack，异常处理并未完成，不能编译.
+*    Last modified: 2014-10-14 10:51
+*
+*    Created by Eleven on 2014-10-14
+*    Email: eleveneat@gmail.com
+*    Copyright (C) 2014 Eleven. All rights reserved.
+*/
 #include "Stack.h"
 
 template<class T>
