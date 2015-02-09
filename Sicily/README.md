@@ -2,7 +2,7 @@
 
 sicily 1198 贪心，8个串排出最小字典序,8!枚举
 
-sicily 1029 递推 简单
+~~sicily 1029 递推 简单~~
 
 sicily 1028 梵塔问题 -> 分治，归纳 -> 有意思但要留意其数据规模较大 sicily 1193 递推 较难
 
@@ -22,7 +22,7 @@ sicily 1007 数组与下标（二维数组） 简单
 
 sicily 1036 数组与下标（二维数组） 简单
 
-sicily 1027 简单
+~~sicily 1027 简单~~
 
 sicily 1006 栈与回溯 简单 5!搜索
 
@@ -100,10 +100,6 @@ sicily 1813 M进制数问题
 
 sicily 1157 The hardest problem. 简单大小比较，难度0
 
-sicily 1830 SZ Fibonacci Sequence, 递归函数, 难度 0
-
-sicily 1668 Score, 分支语句的使用, 难度0
-
 sicily 1147 谁拿了最多奖学金. 结构体、数组、分支，难度1
 
 sicily 1795 Table tennis, 几何题，难度0
@@ -120,7 +116,7 @@ sicily 1036 Crypto Columns, 二维数组,字符串,排序, 难度1
 
 ##*************************数据结构*************************
 
-sicily 1200 Stick. 简单查找配对，或排序或用set，难度1
+~~sicily 1200 Stick. 简单查找配对，或排序或用set，难度1~~
 
 sicily 1934 移动小球. 线性表，难度2
 
@@ -128,13 +124,13 @@ sicily 1509 Rails. 难度2
 
 sicily 1768 双栈排序
 
-sicily 1021 couples. 栈，难度2
+~~sicily 1021 couples. 栈，难度2~~
 
 sicily 1006 Team Rankings, 栈与回溯, 难度1, 5!搜索
 
 sicily 1443 Printer Queue, 基本队列操作
 
-sicily 1210 二叉树, 二叉树遍历顺序先后中转换，挺经典的。
+~~sicily 1210 二叉树, 二叉树遍历顺序先后中转换，挺经典的。~~
 
 sicily 1375 Balanced lineup, 哈希
 
@@ -144,7 +140,7 @@ sicily 1022 Poor contestant Prob, 两个堆
 
 ##*************************字符串相关*************************
 
-sicily 1027 MJ, Nowhere to Hide, 难度1, 直接比较字符串后排个序输出
+~~sicily 1027 MJ, Nowhere to Hide, 难度1, 直接比较字符串后排个序输出~~
 
 sicily 1133 SPAM, 输出输入字符串里的合法email地址。
 
@@ -154,7 +150,7 @@ sicily 1519 Longest Common Subsequence
 
 ##*************************排序和查找*************************
 
-sicily 1046 Plane Spotting. 排序. 难度1.
+~~sicily 1046 Plane Spotting. 排序. 难度1.~~
 
 sicily 1134 积木分发. 从小到大排序. 难度1.
 
