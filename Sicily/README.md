@@ -152,21 +152,17 @@ sicily 1519 Longest Common Subsequence
 
 ~~sicily 1046 Plane Spotting. 排序. 难度1.~~
 
-sicily 1134 积木分发. 从小到大排序. 难度1.
+~~sicily 1134 积木分发. 从小到大排序. 难度1.~~
 
-sicily 1795 Simple Sort
+~~sicily 1154 Easy sort~~
 
-sicily 1154 Easy sort
+~~sicily 1306 Sorting Algorithm. 难度1~~
 
-sicily 1306 Sorting Algorithm. 难度1
+~~sicily 1351 Multi-key Sorting~~
 
-sicily 1351 Multi-key Sorting
+sicily 1628 Extended Normal Order Sort **［这道题等我有耐心的时候再做吧］**
 
-sicily 1628 Extended Normal Order Sort
-
-sicily 1438 Shopaholic, 排序，隔三求和, 难度1
-
-sicily 1046 Plane Spotting, 排序. 难度1
+~~sicily 1438 Shopaholic, 排序，隔三求和, 难度1~~
 
 sicily 1097 LED Modding, 排序
 

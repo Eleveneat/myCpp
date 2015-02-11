@@ -10,10 +10,22 @@
  | |-README.md }
  |
  |-[F]1046PlaneSpotting {
+ | |-1046.cpp
  | |-README.md }
  |
  |-[F]1090Highways {
  | |-1090.cpp
+ | |-README.md }
+ |
+ |-[F]1097LEDModding {
+ | |-README.md }
+ |
+ |-[F]1134积木分发 {
+ | |-1134.cpp
+ | |-README.md }
+ |
+ |-[F]1154EasySort {
+ | |-1154.cpp
  | |-README.md }
  |
  |-[F]1200Stick {
@@ -21,8 +33,20 @@
  | |-README.md }
  |
  |-[F]1210二叉树 {
- | |-1210
  | |-1210.cpp
+ | |-README.md }
+ |
+ |-[F]1306SortingAlgorithm {
+ | |-1306.cpp
+ | |-README.md }
+ |
+ |-[F]1351Multi-keySorting {
+ | |-1351.cpp
+ | |-README.md }
+ |
+ |-[F]1438Shopaholic {
+ | |-1438
+ | |-1438.cpp
  | |-README.md }
  |
  |-README.md
