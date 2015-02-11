@@ -164,7 +164,7 @@ sicily 1628 Extended Normal Order Sort **［这道题等我有耐心的时候再
 
 ~~sicily 1438 Shopaholic, 排序，隔三求和, 难度1~~
 
-sicily 1097 LED Modding, 排序
+~~sicily 1097 LED Modding, 排序~~
 
 ##*************************图遍历*************************
 
