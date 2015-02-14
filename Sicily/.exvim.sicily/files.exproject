@@ -1,6 +1,10 @@
 " Press <F1> for help
 
 -[F]Sicily {
+ |-[F]1006TeamRankings {
+ | |-1006.cpp
+ | |-README.md }
+ |
  |-[F]1027MJ {
  | |-1027.cpp
  | |-README.md }
@@ -18,6 +22,7 @@
  | |-README.md }
  |
  |-[F]1097LEDModding {
+ | |-1097.cpp
  | |-README.md }
  |
  |-[F]1134积木分发 {
@@ -40,13 +45,19 @@
  | |-1306.cpp
  | |-README.md }
  |
+ |-[F]1323SwitchText {
+ | |-README.md }
+ |
  |-[F]1351Multi-keySorting {
  | |-1351.cpp
  | |-README.md }
  |
  |-[F]1438Shopaholic {
- | |-1438
  | |-1438.cpp
+ | |-README.md }
+ |
+ |-[F]1443PrinterQueue {
+ | |-1443.cpp
  | |-README.md }
  |
  |-README.md

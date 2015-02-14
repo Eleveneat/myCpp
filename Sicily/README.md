@@ -126,9 +126,9 @@ sicily 1768 双栈排序
 
 ~~sicily 1021 couples. 栈，难度2~~
 
-sicily 1006 Team Rankings, 栈与回溯, 难度1, 5!搜索
+~~sicily 1006 Team Rankings, 栈与回溯, 难度1, 5!搜索~~
 
-sicily 1443 Printer Queue, 基本队列操作
+~~sicily 1443 Printer Queue, 基本队列操作~~
 
 ~~sicily 1210 二叉树, 二叉树遍历顺序先后中转换，挺经典的。~~
 
@@ -144,7 +144,7 @@ sicily 1022 Poor contestant Prob, 两个堆
 
 sicily 1133 SPAM, 输出输入字符串里的合法email地址。
 
-sicily 1323 Switch text, 字符串处理。
+~~sicily 1323 Switch text, 字符串处理。~~
 
 sicily 1519 Longest Common Subsequence
 
