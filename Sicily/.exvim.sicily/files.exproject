@@ -33,6 +33,9 @@
  | |-1154.cpp
  | |-README.md }
  |
+ |-[F]1194MessageFlood {
+ | |-README.md }
+ |
  |-[F]1200Stick {
  | |-1200.cpp
  | |-README.md }
@@ -46,10 +49,15 @@
  | |-README.md }
  |
  |-[F]1323SwitchText {
+ | |-1323.cpp
  | |-README.md }
  |
  |-[F]1351Multi-keySorting {
  | |-1351.cpp
+ | |-README.md }
+ |
+ |-[F]1375Balancedlineup {
+ | |-1375.cpp
  | |-README.md }
  |
  |-[F]1438Shopaholic {
@@ -58,6 +66,14 @@
  |
  |-[F]1443PrinterQueue {
  | |-1443.cpp
+ | |-README.md }
+ |
+ |-[F]1509Rails {
+ | |-1509.cpp
+ | |-README.md }
+ |
+ |-[F]1934移动小球 {
+ | |-1934.cpp
  | |-README.md }
  |
  |-README.md

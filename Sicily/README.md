@@ -118,9 +118,9 @@ sicily 1036 Crypto Columns, 二维数组,字符串,排序, 难度1
 
 ~~sicily 1200 Stick. 简单查找配对，或排序或用set，难度1~~
 
-sicily 1934 移动小球. 线性表，难度2
+~~sicily 1934 移动小球. 线性表，难度2~~
 
-sicily 1509 Rails. 难度2
+~~sicily 1509 Rails. 难度2~~
 
 sicily 1768 双栈排序
 
@@ -132,9 +132,9 @@ sicily 1768 双栈排序
 
 ~~sicily 1210 二叉树, 二叉树遍历顺序先后中转换，挺经典的。~~
 
-sicily 1375 Balanced lineup, 哈希
+~~sicily 1375 Balanced lineup, 哈希~~
 
-sicily 1194 Message Flood, 单词查找, 排序后二分查找，或哈希或平衡二叉树
+~~sicily 1194 Message Flood, 单词查找, 排序后二分查找，或哈希或平衡二叉树~~
 
 sicily 1022 Poor contestant Prob, 两个堆
 
