@@ -136,7 +136,7 @@ sicily 1768 双栈排序
 
 ~~sicily 1194 Message Flood, 单词查找, 排序后二分查找，或哈希或平衡二叉树~~
 
-sicily 1022 Poor contestant Prob, 两个堆
+~~sicily 1022 Poor contestant Prob, 两个堆~~
 
 ##*************************字符串相关*************************
 

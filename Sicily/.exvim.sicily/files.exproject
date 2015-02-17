@@ -5,6 +5,10 @@
  | |-1006.cpp
  | |-README.md }
  |
+ |-[F]1022PoorContestantProb {
+ | |-README.md
+ | |-［超时版本］1022.cpp }
+ |
  |-[F]1027MJ {
  | |-1027.cpp
  | |-README.md }
@@ -34,6 +38,7 @@
  | |-README.md }
  |
  |-[F]1194MessageFlood {
+ | |-1194.cpp
  | |-README.md }
  |
  |-[F]1200Stick {
