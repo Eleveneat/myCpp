@@ -98,21 +98,21 @@ sicily 1293, uva 100, pc 110101, 3n+1数链问题, 难度1
 
 sicily 1813 M进制数问题
 
-sicily 1157 The hardest problem. 简单大小比较，难度0
+~~sicily 1157 The hardest problem. 简单大小比较，难度0~~
 
-sicily 1147 谁拿了最多奖学金. 结构体、数组、分支，难度1
+~~sicily 1147 谁拿了最多奖学金. 结构体、数组、分支，难度1~~
 
 sicily 1795 Table tennis, 几何题，难度0
 
-sicily 1798 Alice and Bob, 策略，难度1
+~~sicily 1798 Alice and Bob, 策略，难度1~~
 
-sicily 1510 Mispelling, 字符串，难度0
+~~sicily 1510 Mispelling, 字符串，难度0~~
 
-sicily 1561 PRIME Number, 难度1
+~~sicily 1561 PRIME Number, 难度1~~
 
-sicily 1007 To and Fro, 二维数组, 难度1
+~~sicily 1007 To and Fro, 二维数组, 难度1~~
 
-sicily 1036 Crypto Columns, 二维数组,字符串,排序, 难度1
+~~sicily 1036 Crypto Columns, 二维数组,字符串,排序, 难度1~~
 
 ##*************************数据结构*************************
 
