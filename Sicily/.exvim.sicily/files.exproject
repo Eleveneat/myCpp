@@ -1,120 +1,135 @@
 " Press <F1> for help
 
 -[F]Sicily {
- |-[F]1006TeamRankings {
+ |-[F]1006_TeamRankings {
  | |-1006.cpp
  | |-README.md }
  |
- |-[F]1007ToandFro {
+ |-[F]1007_ToandFro {
  | |-1007.cpp
  | |-README.md }
  |
- |-[F]1022PoorContestantProb {
+ |-[F]1022_PoorContestantProb {
  | |-1022.cpp
  | |-README.md
  | |-［超时版本］1022.cpp }
  |
- |-[F]1027MJ {
+ |-[F]1027_MJ {
  | |-1027.cpp
  | |-README.md }
  |
- |-[F]1029Rabbit {
+ |-[F]1029_Rabbit {
  | |-1029.cpp
  | |-README.md }
  |
- |-[F]1036CryptoColumns {
+ |-[F]1036_CryptoColumns {
  | |-1036.cpp
  | |-README.md }
  |
- |-[F]1046PlaneSpotting {
+ |-[F]1046_PlaneSpotting {
  | |-1046.cpp
  | |-README.md }
  |
- |-[F]1090Highways {
+ |-[F]1090_Highways {
  | |-1090.cpp
  | |-README.md }
  |
- |-[F]1097LEDModding {
+ |-[F]1097_LEDModding {
  | |-1097.cpp
  | |-README.md }
  |
- |-[F]1134积木分发 {
+ |-[F]1134_积木分发 {
  | |-1134.cpp
  | |-README.md }
  |
- |-[F]1147谁拿了最多奖学金 {
+ |-[F]1147_谁拿了最多奖学金 {
  | |-1147.cpp
  | |-README.md }
  |
- |-[F]1154EasySort {
+ |-[F]1154_EasySort {
  | |-1154.cpp
  | |-README.md }
  |
- |-[F]1157TheHardestProblem {
+ |-[F]1157_TheHardestProblem {
  | |-1157.cpp
  | |-README.md }
  |
- |-[F]1194MessageFlood {
+ |-[F]1194_MessageFlood {
  | |-1194.cpp
  | |-README.md }
  |
- |-[F]1200Stick {
+ |-[F]1200_Stick {
  | |-1200.cpp
  | |-README.md }
  |
- |-[F]1210二叉树 {
+ |-[F]1210_二叉树 {
  | |-1210.cpp
  | |-README.md }
  |
- |-[F]1306SortingAlgorithm {
+ |-[F]1306_SortingAlgorithm {
  | |-1306.cpp
  | |-README.md }
  |
- |-[F]1323SwitchText {
+ |-[F]1323_SwitchText {
  | |-1323.cpp
  | |-README.md }
  |
- |-[F]1351Multi-keySorting {
+ |-[F]1351_Multi-keySorting {
  | |-1351.cpp
  | |-README.md }
  |
- |-[F]1375Balancedlineup {
+ |-[F]1375_Balancedlineup {
  | |-1375.cpp
  | |-README.md }
  |
- |-[F]1438Shopaholic {
+ |-[F]1438_Shopaholic {
  | |-1438.cpp
  | |-README.md }
  |
- |-[F]1443PrinterQueue {
+ |-[F]1443_PrinterQueue {
  | |-1443.cpp
  | |-README.md }
  |
- |-[F]1509Rails {
+ |-[F]1509_Rails {
  | |-1509.cpp
  | |-README.md }
  |
- |-[F]1510Mispelling {
+ |-[F]1510_Mispelling {
  | |-1510.cpp
  | |-README.md }
  |
- |-[F]1561PRIME {
+ |-[F]1561_PRIME {
  | |-1561.cpp
  | |-README.md }
  |
- |-[F]1798AliceandBob {
+ |-[F]1798_AliceandBob {
  | |-1798.cpp
  | |-README.md }
  |
- |-[F]1813-M进制数问题 {
+ |-[F]1800_Sequence {
+ | |-1800.cpp
  | |-README.md }
  |
- |-[F]1934移动小球 {
+ |-[F]1813_M进制数问题 {
+ | |-1813.cpp
+ | |-README.md }
+ |
+ |-[F]1815_计算两点间的距离 {
+ | |-1815.cpp
+ | |-README.md }
+ |
+ |-[F]1817_校歌手大奖赛 {
+ | |-1817.cpp
+ | |-README.md }
+ |
+ |-[F]1934_移动小球 {
  | |-1934.cpp
  | |-README.md }
  |
  |-README.md
  |-sicily.exvim
+ |-testVim
+ |-testVim.cpp
  |-笔记.md
  |-高精度加法.cpp }
 
