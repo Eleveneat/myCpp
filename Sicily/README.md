@@ -94,7 +94,7 @@ sicily 1317. Sudoku, 搜索
 
 sicily 1215. 脱离地牢, 搜索
 
-sicily 1293, uva 100, pc 110101, 3n+1数链问题, 难度1
+~~sicily 1293, uva 100, pc 110101, 3n+1数链问题, 难度1~~
 
 ~~sicily 1813 M进制数问题~~
 

@@ -62,8 +62,20 @@
  | |-1200.cpp
  | |-README.md }
  |
+ |-[F]1201_01000001 {
+ | |-1201.cpp
+ | |-README.md }
+ |
  |-[F]1210_二叉树 {
  | |-1210.cpp
+ | |-README.md }
+ |
+ |-[F]1293_3n+1数链问题 {
+ | |-1293.cpp
+ | |-README.md }
+ |
+ |-[F]1294_高级机密 {
+ | |-1294.cpp
  | |-README.md }
  |
  |-[F]1306_SortingAlgorithm {
@@ -128,8 +140,6 @@
  |
  |-README.md
  |-sicily.exvim
- |-testVim
- |-testVim.cpp
  |-笔记.md
  |-高精度加法.cpp }
 
