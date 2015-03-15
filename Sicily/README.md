@@ -62,7 +62,7 @@ sicily 1375 Balanced lineup, 哈希
 
 sicily 1426 Phone List,电话号码前缀检索，trie树相关
 
-sicily 1342 开心的金明, 背包
+~~sicily 1342 开心的金明, 背包~~
 
 sicily 1519 Longest Common Subsequence
 
@@ -236,17 +236,17 @@ sicily 1378 八数码问题. 启发式搜索。
 
 ##*************************动态规划*************************
 
-sicily 1001 Alphacode. dp基本题. 难度2
+~~sicily 1001 Alphacode. dp基本题. 难度2~~
 
 sicily 1049 Mondriaan. 2*1跟1*1的砖铺成2*n的走道的方法数.
 
 sicily 1264 Atomic Car Race. dp基本题.
 
-sicily 1342 开心的金明. 背包dp
+~~sicily 1342 开心的金明. 背包dp~~
 
-sicily 1146 采药. 01背包, 剩余类dp
+~~sicily 1146 采药. 01背包, 剩余类dp~~
 
-sicily 1419 On the run(牛奶快递). dp
+~~sicily 1419 On the run(牛奶快递). dp~~
 
 sicily 1019 Apple Tree. 树型dp
 

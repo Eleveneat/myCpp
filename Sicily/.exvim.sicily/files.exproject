@@ -1,6 +1,9 @@
 " Press <F1> for help
 
 -[F]Sicily {
+ |-[F]1001_Alphacode {
+ | |-README.md }
+ |
  |-[F]1006_TeamRankings {
  | |-1006.cpp
  | |-README.md }
@@ -42,6 +45,18 @@
  | |-1134.cpp
  | |-README.md }
  |
+ |-[F]1144_陶陶摘苹果 {
+ | |-1144.cpp
+ | |-README.md }
+ |
+ |-[F]1145_校门外的树 {
+ | |-1145.cpp
+ | |-README.md }
+ |
+ |-[F]1146_采药 {
+ | |-1146.cpp
+ | |-README.md }
+ |
  |-[F]1147_谁拿了最多奖学金 {
  | |-1147.cpp
  | |-README.md }
@@ -52,6 +67,10 @@
  |
  |-[F]1157_TheHardestProblem {
  | |-1157.cpp
+ | |-README.md }
+ |
+ |-[F]1159_Sum {
+ | |-1159.cpp
  | |-README.md }
  |
  |-[F]1194_MessageFlood {
@@ -78,6 +97,10 @@
  | |-1294.cpp
  | |-README.md }
  |
+ |-[F]1298_数制转换 {
+ | |-1298.cpp
+ | |-README.md }
+ |
  |-[F]1306_SortingAlgorithm {
  | |-1306.cpp
  | |-README.md }
@@ -86,12 +109,20 @@
  | |-1323.cpp
  | |-README.md }
  |
+ |-[F]1342_开心的金明 {
+ | |-1342.cpp
+ | |-README.md }
+ |
  |-[F]1351_Multi-keySorting {
  | |-1351.cpp
  | |-README.md }
  |
  |-[F]1375_Balancedlineup {
  | |-1375.cpp
+ | |-README.md }
+ |
+ |-[F]1419_Ontherun牛奶快递 {
+ | |-1419.cpp
  | |-README.md }
  |
  |-[F]1438_Shopaholic {

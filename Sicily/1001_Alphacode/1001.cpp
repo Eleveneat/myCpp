@@ -23,11 +23,11 @@ int main() {
             continue;
         }
         a[0] = 1;
-        a[1] = (a[1] && ((str[1]-'0') + (str[0]-'0') * 10 <= 26)) ? 2 : 1;
+        a[1] = ((str[1]-'0') && ((str[1]-'0') + (str[0]-'0') * 10 <= 26)) ? 2 : 1;
         for (int i = 2; i < len; i++) {
             tenDig = str[i-1] - '0';
             oneDig = str[i] - '0';
-            if ('0' == oneDig) {
+            if (!oneDig) {
                     a[i] = a[i-2];
             } else {
                 if (!tenDig)
