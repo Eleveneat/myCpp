@@ -2,6 +2,10 @@
 
 -[F]Sicily {
  |-[F]1001_Alphacode {
+ | |-1001.cpp
+ | |-README.md }
+ |
+ |-[F]1003_HitorMiss {
  | |-README.md }
  |
  |-[F]1006_TeamRankings {
