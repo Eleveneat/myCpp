@@ -6,6 +6,7 @@
  | |-README.md }
  |
  |-[F]1003_HitorMiss {
+ | |-1003.cpp
  | |-README.md }
  |
  |-[F]1006_TeamRankings {
@@ -63,6 +64,14 @@
  |
  |-[F]1147_谁拿了最多奖学金 {
  | |-1147.cpp
+ | |-README.md }
+ |
+ |-[F]1152_简单的马周游问题 {
+ | |-1152.cpp
+ | |-README.md }
+ |
+ |-[F]1153_马的周游问题 {
+ | |-1153.cpp
  | |-README.md }
  |
  |-[F]1154_EasySort {
