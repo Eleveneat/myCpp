@@ -82,7 +82,7 @@ int main () {
         memset(board, false, 10*10*sizeof(bool));
         memset(path, 0, 50*sizeof(int));
         point p;
-        p.x = n % 6;
+        p.x = (n - 1) % 6 + 1;
         p.y = (n - 1) / 6 + 1;
         p.id = n;
         board[p.x][p.y] = true;
