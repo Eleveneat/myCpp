@@ -282,7 +282,7 @@ sicily 1240 Faulty Odometer. 十进制数少了4的计数
 
 sicily 1029 Rabbit. 高精度求和，难度2
 
-sicily 1020 Big Integer. 高精度数求模，难度2
+~~sicily 1020 Big Integer. 高精度数求模，难度2~~
 
 sicily 1381 a*b. 高精度乘法. 难度2
 
