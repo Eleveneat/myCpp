@@ -40,7 +40,7 @@ sicily 1034 队列与搜索
 
 sicily 1093 枚举
 
-sicily 1050 回溯 DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.
+~~sicily 1050 回溯 DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.~~
 
 sicily 1134 积木分发, 贪心:从小到大排序
 
@@ -220,7 +220,7 @@ sicily 1317 Sudoku. 数独求解的个数。
 
 sicily 1180 Pasting Strings 给10个字符串，求一个排列使得某种权和最大，全排列搜索。 sicily 1024 Magic Island. 无向图的最长路，深度优先搜索DFS. 难度2
 
-sicily 1050 Numbers & Letters 回溯 DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.
+~~sicily 1050 Numbers & Letters 回溯 DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.~~
 
 sicily 1135 飞越原野 最短时间过地图，广度优先搜索.
 
