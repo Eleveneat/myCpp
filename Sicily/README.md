@@ -28,7 +28,7 @@ sicily 1515 魔板C
 
 ~~sicily 1006 栈与回溯 简单 5!搜索~~
 
-sicily 1156 深搜 指针 简单 树的遍历
+~~sicily 1156 深搜 指针 简单 树的遍历~~
 
 sicily 1034 队列与搜索
 
@@ -174,7 +174,7 @@ sicily 1155 Can I Post the letter 判断两点是否可达。（图的遍历）
 
 sicily 1114 Food Cubes. 广度优先遍历给3维空间图染色。（dfs容易栈溢出）
 
-sicily 1156 Binary tree, 深搜, 指针, 树的先序遍历, 难度1
+~~sicily 1156 Binary tree, 深搜, 指针, 树的先序遍历, 难度1~~
 
 sicily 1034 forest, 森林的定义，求最大宽度与深度，深度优先遍历； 树, 队列与搜索 sicily 1424 奖金, 拓扑排序
 
