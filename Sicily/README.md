@@ -218,7 +218,9 @@ sicily 1215 脱离地牢. 有限制的迷宫求两人相遇的最小步骤。（
 
 sicily 1317 Sudoku. 数独求解的个数。
 
-sicily 1180 Pasting Strings 给10个字符串，求一个排列使得某种权和最大，全排列搜索。 sicily 1024 Magic Island. 无向图的最长路，深度优先搜索DFS. 难度2
+sicily 1180 Pasting Strings 给10个字符串，求一个排列使得某种权和最大，全排列搜索。 
+
+~~sicily 1024 Magic Island. 无向图的最长路，深度优先搜索DFS. 难度2~~
 
 ~~sicily 1050 Numbers & Letters 回溯 DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.~~
 
