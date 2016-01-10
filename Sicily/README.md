@@ -38,7 +38,7 @@ sicily 1515 魔板C
 
 ~~sicily 1153 马周游问题,要求写解题报告~~
 
-sicily 1093 枚举
+~~sicily 1093 枚举~~
 
 ~~sicily 1050 回溯 DFS求5个数可否运算得到目标数, 否则输出可得到的小于目标数的最大数.~~
 
@@ -46,7 +46,7 @@ sicily 1134 积木分发, 贪心:从小到大排序
 
 sicily 1140 国王的遗产,贪心:砍不大于n/2个节点的最大树枝
 
-sicily 1211 分治 求两点间L步到达的方法数
+~~sicily 1211 分治 求两点间L步到达的方法数~~
 
 sicily 1381 a*b 高精度
 
@@ -68,7 +68,7 @@ sicily 1426 Phone List,电话号码前缀检索，trie树相关
 
 sicily 1519 Longest Common Subsequence
 
-sicily 1211 商人的宣传
+~~sicily 1211 商人的宣传~~
 
 sicily 1176 Two ends
 
@@ -186,7 +186,7 @@ sicily 1308 Dependencies among Jobs, 图的遍历
 
 ##*************************图算法*************************
 
-sicily 1211 商人的宣传, 难度1，有向图矩阵乘法
+~~sicily 1211 商人的宣传, 难度1，有向图矩阵乘法~~
 
 sicily 1031 Campus 单源最短路，dijkstra
 
@@ -202,7 +202,9 @@ sicily 1423. 魔王bug的2色定理，最小割（用最大流求解）
 
 sicily 1192 Guardian of Decency 求最大独立集，比较特殊可以转二分匹配做。
 
-sicily 1211 商人的宣传, 简单题，有向图矩阵乘法，O(n^3*logL)；直接迭代也行,O(n*m*L)。 sicily 1350 Piggy banks 给出每个点出度为1的有向图，求环的个数。（简单）
+~~sicily 1211 商人的宣传, 简单题，有向图矩阵乘法，O(n^3*logL)；直接迭代也行,O(n*m*L)。~~
+
+sicily 1350 Piggy banks 给出每个点出度为1的有向图，求环的个数。（简单）
 
 sicily 1423 魔王bug的2色定理 构图求网络的最小割。
 
@@ -262,7 +264,7 @@ sicily 1123 The Longest Walk 有向图求任意起终点的无重复点的最长
 
 sicily 1017 Rate of Return. 求解方程，二分. 难度2
 
-sicily 1211 商人的宣传. 求两点间L步到达的方法数.
+~~sicily 1211 商人的宣传. 求两点间L步到达的方法数.~~
 
 sicily 1137 河床. 求一个最长的连续区间满足其中的最小数和最大数之差不大于k。 sicily 1411 Pie. 二分
 
@@ -300,7 +302,7 @@ sicily 1139 电路稳定性, 递归处理括号对序列算电路不通概率
 
 sicily 1149 等价表达式, 判断表达式是否等价（递归求解）
 
-sicily 1211 商人的宣传,分治, 求两点间L步到达的方法数
+~~sicily 1211 商人的宣传,分治, 求两点间L步到达的方法数~~
 
 sicily 1028 Hanoi Tower Sequence, 梵塔问题 -> 分治，归纳 -> 有意思但要留意其数据规模较大,可以递归或迭代做.
 
