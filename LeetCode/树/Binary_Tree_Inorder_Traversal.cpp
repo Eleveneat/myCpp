@@ -9,22 +9,24 @@
  */
 class Solution {
 public:
-    vector<int> preorderTraversal(TreeNode* root) {
+    vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
-        stack<const TreeNode*> s;
-        if (root != nullptr) s.push(root);
-        
-        while (!s.empty()) {
-            const TreeNode *p = s.top();
-            s.pop();
-            result.push_back(p->val);
-            
-            if (p->right != nullptr) s.push(p->right);
-            if (p->left != nullptr) s.push(p->left);
+        stack<const TreeNode*> stk;
+        const TreeNode *p =  root;
+        while (!s.empty() || p != nullptr) {
+            if (p != nullptr) {
+                stk.push(p);
+                p = p->left;
+            } else {
+                p = s.top();
+                s.pop();
+                result.push_back(p->val);
+                p = p->right;
+            }
         }
         return result;
     }
-};
+}
 
 /**
  * Definition for a binary tree node.
@@ -37,24 +39,24 @@ public:
  */
 class Solution {
 public:
-    vector<int> preorderTraversal(TreeNode* root) {
+    vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
-        TreeNode *cur = root;
+        TreeNode* cur = root;
         
         while (cur != nullptr) {
             if (cur->left == nullptr) {
                 result.push_back(cur->val);
                 cur = cur->right;
             } else {
-                TreeNode *node = cur->left;
-                while (node->right != nullptr && node->right != cur)
-                    node = node->right;
-                if (node->right == nullptr) {
-                    result.push_back(cur->val);
-                    node->right = cur;
+                TreeNode *p = cur->left;
+                while (p->right != nullptr && p->right != cur)
+                    p = p->right;
+                if (p->right == nullptr) {
+                    p->right = cur;
                     cur = cur->left;
-                } else {
-                    node->right = nullptr;
+                } else { // p->right == cur
+                    p->right = nullptr;
+                    result.push_back(cur->val);
                     cur = cur->right;
                 }
             }
